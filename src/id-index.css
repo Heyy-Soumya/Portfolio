@@ -176,7 +176,9 @@ i{
         
     }
     
-    
+    body {
+        background: linear-gradient(to right, #3e2b3a, #35413b);
+    }
     
     .container{
         display: flex;
@@ -184,7 +186,7 @@ i{
         align-items: center;
         height: 100vh;
         background: linear-gradient(to right, #3e2b3a, #35413b);
-        margin-top: -100px;
+        margin-top: -50px;
         padding-left: 10px;
         padding-right: 10px;
         
